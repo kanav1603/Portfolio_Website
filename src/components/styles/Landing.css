@@ -95,7 +95,6 @@
   height: 400px;
   z-index: 1;
   background-color: #22d3ee;
-  transform: translate(-50%, 36%) scaleX(1.4);
   box-shadow: inset 66px 35px 85px 0px rgba(0, 180, 180, 0.65);
   filter: blur(50px);
   border-radius: 50%;
@@ -192,10 +191,6 @@
   font-family: "Geist", sans-serif;
 }
 
-/* .landing-intro h1 span {
-   font-weight: 200; 
-} */
-
 .landing-info {
   position: absolute;
   right: 50%;
@@ -247,12 +242,14 @@ h2.landing-info-h2 {
 .landing-h2-2 {
   position: absolute;
   top: 0;
+  -webkit-mask-image: linear-gradient(0deg, transparent 40%, black 110%);
+  mask-image: linear-gradient(0deg, transparent 40%, black 110%);
 }
 
 .landing-info-h2::after {
   content: "";
   position: absolute;
-  width: 100%;
+  width: 150%;
   height: 120%;
   z-index: 3;
   background-image: linear-gradient(0deg,

@@ -15,43 +15,46 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Data Engineer</h4>
+                <h5>Clymb Clinical</h5>
               </div>
-              <h3>2020</h3>
+              <h3>Now</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Built and maintained scalable data pipelines as a Data Engineer at Clymb Clinical, working with large healthcare datasets.
+              Experienced in data processing and analysis using Python, SQL, and PySpark.
+              Worked with cloud platforms including Amazon Web Services and Microsoft Azure for data storage and pipeline orchestration.
+              Focused on building reliable data workflows that support analytics, reporting, and data-driven decision making. 🚀
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Sales Data Analyst</h4>
+                <h5>Focus Lifestyle Pvt Ltd</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Worked as a Sales Data Analyst at Focus Pvt Ltd & Co, analyzing sales data to identify trends and support business decisions.
+              Built dashboards and reports using **Excel, SQL, and Power BI** to track performance and revenue metrics.
+              Performed data cleaning, analysis, and visualization to improve sales insights and reporting accuracy.
+              Collaborated with business teams to transform raw sales data into actionable insights for growth. 📊
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Data Analyst</h4>
+                <h5>CoreData Technologies</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2022</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Worked as a Data Analyst at Core Data Technology, transforming complex datasets into strategic insights for business growth.
+              Specialized in data exploration, trend analysis, and performance reporting using SQL, Excel, and visualization tools.
+              Built automated dashboards to help teams monitor KPIs and make faster data-driven decisions.
+              Focused on turning raw data into clear, actionable insights that improve operational and sales performance. 📊
             </p>
           </div>
         </div>
